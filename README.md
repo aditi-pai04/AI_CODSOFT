@@ -15,14 +15,3 @@ This repository contains a collection of AI projects that were completed during 
 ### 3. Face Detection and Recognition
 - **Description**: Developed an AI application that can detect and recognize faces in images or videos. The project utilizes pre-trained face detection models like Haar cascades or deep learning-based face detectors, with optional face recognition capabilities using techniques like Siamese networks or ArcFace.
 - **Technologies Used**: Python, OpenCV, TensorFlow
-
-## Installation and Setup
-*Instructions for setting up the environment and dependencies can be added here.*
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Thanks to Codsoft for the opportunity to work on these exciting projects.
-- Special thanks to the mentors who guided me throughout my internship.
-
