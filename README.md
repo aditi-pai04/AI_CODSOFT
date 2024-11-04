@@ -15,3 +15,7 @@ This repository contains a collection of AI projects that were completed during 
 ### 3. Face Detection and Recognition
 - **Description**: Developed an AI application that can detect and recognize faces in images or videos. The project utilizes pre-trained face detection models like Haar cascades or deep learning-based face detectors, with optional face recognition capabilities using techniques like Siamese networks or ArcFace.
 - **Technologies Used**: Python, OpenCV, TensorFlow
+
+### 4. Chatbot with Rule-Based Responses
+- **Description**: Built a simple chatbot that responds to user inputs based on predefined rules. The project utilizes if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This project gives a basic understanding of natural language processing and conversation flow.
+- **Technologies Used**: Python, NLTK (Natural Language Toolkit) or any other relevant libraries
